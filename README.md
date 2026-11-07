@@ -10,4 +10,4 @@ Album and ARI3D live on GitLab, where most of my development happens: [gitlab.co
 
 I also run the programming exercises and tutorials of the course *Machine Learning for Image Analysis* at HU Berlin and HPI.
 
-[ORCID](https://orcid.org/0000-0002-3792-9695) · [Google Scholar](https://scholar.google.de/citations?user=1jneuyYAAAAJ) · [LinkedIn](YOUR-LINKEDIN-URL) · mail@jpalbrecht.de
+[ORCID](https://orcid.org/0000-0002-3792-9695) · [Google Scholar](https://scholar.google.de/citations?user=1jneuyYAAAAJ) · [LinkedIn](YOUR-LINKEDIN-URL) · github@jpalbrecht.de
